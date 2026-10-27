@@ -1,0 +1,11 @@
+# rahasia — JANGAN pernah di-commit
+.9remote/
+*.key
+keys.json*
+state.json
+mcpToken
+*.log
+
+# sisa instalasi
+node_modules/
+runtime/
